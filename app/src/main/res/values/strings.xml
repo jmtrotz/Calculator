@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+Author: Jeffrey Trotz
+Date: 1/31/17
+Class: CS 305
+Version: 0.1
+-->
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="zero_button">0</string>
+    <string name="one_button">1</string>
+    <string name="two_button">2</string>
+    <string name="three_button">3</string>
+    <string name="four_button">4</string>
+    <string name="five_button">5</string>
+    <string name="six_button">6</string>
+    <string name="seven_button">7</string>
+    <string name="eight_button">8</string>
+    <string name="nine_button">9</string>
+    <string name="add_button">+</string>
+    <string name="subtract_button">-</string>
+    <string name="multiply_button">x</string>
+    <string name="divide_button">/</string>
+    <string name="modulus_button">%</string>
+    <string name="exponent_button">^</string>
+    <string name="decimal_button">.</string>
+    <string name="equals_button">=</string>
+    <string name="sine_button">sin</string>
+    <string name="cosine_button">cos</string>
+    <string name="tangent_button">tan</string>
+    <string name="logarithm_button">log</string>
+    <string name="root_button">root</string>
+    <string name="clear_button">Clear</string>
+    <string name="result_button">Get Result</string>
+    <string name="formula_text_view">Click the button below to view the result for</string>
+</resources>
